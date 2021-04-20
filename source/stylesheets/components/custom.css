@@ -1,0 +1,13 @@
+.fa-shopping-cart {
+  font-size: 20px;
+}
+
+.nav-link {
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.material-icon:hover {
+  opacity: .5;
+}
+/*# sourceMappingURL=custom.css.map */
